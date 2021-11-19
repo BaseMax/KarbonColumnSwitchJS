@@ -1,4 +1,4 @@
-# JS List switcher
+# JS List Transfer
 
 I attended in a Front-end challenge, and this was one of project task.
 
